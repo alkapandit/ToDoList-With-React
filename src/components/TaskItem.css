@@ -1,0 +1,25 @@
+.completed {
+  text-decoration: line-through;
+}
+.not-completed {
+  text-decoration: none;
+}
+.task {
+  cursor: pointer;
+}
+.delete {
+  border-style: none;
+  border-radius: 5px;
+  padding: 0.2rem 0.7rem;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(241, 6, 6);
+}
+.edit {
+  border-style: none;
+  border-radius: 5px;
+  padding: 0.2rem 0.7rem;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(1, 126, 137);
+}

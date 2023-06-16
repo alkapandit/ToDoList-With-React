@@ -1,0 +1,14 @@
+.add {
+  color: aliceblue;
+  font-weight: bold;
+  border-style: none;
+  border-radius: 5px;
+  padding: 0.4rem 0.8rem;
+  background-color: green;
+}
+.create-form input {
+  padding-bottom: 0.3rem;
+  padding-top: 0.3rem;
+  padding-right: 1rem;
+  /* width: 70%; */
+}
